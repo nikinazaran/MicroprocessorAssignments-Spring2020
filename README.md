@@ -1,7 +1,7 @@
 ﻿# About
 This is a repository for assignments given to students of the Microprocessor And Assembly course spring 2020 at Shahid Beheshti University.
 Project 1 is designed for the 8086 processor.
-I used Proteus and Keil ($\mu$Vision) for projects 2-5.
+I used Proteus and Keil ( <a href="https://www.codecogs.com/eqnedit.php?latex=\mu&space;Vision" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu&space;Vision" title="\mu Vision" /></a>) for projects 2-5.
 
 # 1. Pong
 A single-player Pong game made with 8086 assembly. The color of the ball changes randomly, and
